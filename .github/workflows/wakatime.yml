@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"  # Runs every 12 hours to update work time
   workflow_dispatch:  # Allows manual updates
 
+permissions:
+  contents: write  # Grant write access to update README
+
 jobs:
   update-readme:
     name: Update WakaTime Readme
