@@ -11,6 +11,15 @@
 
 ### ⏳ Work Time Summary  
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   7 hrs 50 mins   ██████████████████████░░░   87.76 %
+PHP          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
